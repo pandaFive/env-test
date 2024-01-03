@@ -4,7 +4,7 @@ docker compose を使った開発環境の構築のテストのためのディ�
 
 ## 使用方法
 
-`git clone` をして下記コマンドを実行
+`git clone https://github.com/pandaFive/env-test.git` をして下記コマンドを実行
 
 ```bash
 docker compose up -d --build
